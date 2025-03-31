@@ -1,0 +1,10 @@
+C:\Users\ribei\source\repos\DesafioMVC\bin\Debug\DesafioMVC.exe.config
+C:\Users\ribei\source\repos\DesafioMVC\bin\Debug\DesafioMVC.exe
+C:\Users\ribei\source\repos\DesafioMVC\bin\Debug\DesafioMVC.pdb
+C:\Users\ribei\source\repos\DesafioMVC\obj\Debug\DesafioMVC.csproj.AssemblyReference.cache
+C:\Users\ribei\source\repos\DesafioMVC\obj\Debug\DesafioMVC.Properties.Resources.resources
+C:\Users\ribei\source\repos\DesafioMVC\obj\Debug\DesafioMVC.Form1.resources
+C:\Users\ribei\source\repos\DesafioMVC\obj\Debug\DesafioMVC.csproj.GenerateResource.cache
+C:\Users\ribei\source\repos\DesafioMVC\obj\Debug\DesafioMVC.csproj.CoreCompileInputs.cache
+C:\Users\ribei\source\repos\DesafioMVC\obj\Debug\DesafioMVC.exe
+C:\Users\ribei\source\repos\DesafioMVC\obj\Debug\DesafioMVC.pdb
